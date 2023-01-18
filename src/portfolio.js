@@ -26,7 +26,7 @@ const greeting = {
     "Un développeur Web/Python amateur🚀 ayant une expérience dans la construction de site Web et Scripts avec Html / Css / Nodejs / Python et des librairies pour du scraping web."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "", // Set to empty to hide the button
   displayGreeting: false // Set false to hide this section, defaults to true
 };
 
