@@ -285,23 +285,23 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "Autres",
+  title: "Autres trucs cools",
   subtitle: emoji(
-    "J'adore participer à des projets"
+    "J'adore participer à d'autres projets ambitieux ! "
   ),
 
   talks: [
-    {
-      title: "[WEBINAIRE]Twillio Segments",
-      subtitle: "Future-Proofing your Marketing Strategy 2023",
-      slides_url: "",
-      event_url: "https://segment.com/"
-    },
     {
       title: "[ACCES PRIVÉ] Intelligence Artificielle",
       subtitle: "Accès privé à la nouvelle Ia de OpenAI (CODEX)",
       slides_url: "",
       event_url: "https://openai.com/blog/openai-codex/"
+    },
+    {
+      title: "[WEBINAIRE]Twillio Segments",
+      subtitle: "Future-Proofing your Marketing Strategy 2023",
+      slides_url: "",
+      event_url: "https://segment.com/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
