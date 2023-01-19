@@ -292,8 +292,8 @@ const talkSection = {
 
   talks: [
     {
-      title: "[ACCES PRIVÉ] Intelligence Artificielle",
-      subtitle: "Accès privé à la nouvelle Ia de OpenAI (CODEX)",
+      title: "[EXCLUSIF] Intelligence Artificielle",
+      subtitle: "Accès privé à la nouvelle ia de OpenAI (CODEX)",
       slides_url: "",
       event_url: "https://openai.com/blog/openai-codex/"
     },
