@@ -285,23 +285,23 @@ const blogSection = {
 // Talks Sections
 
 const talkSection = {
-  title: "Rassemblement/Webinars",
+  title: "Autres",
   subtitle: emoji(
-    "J'adore partager mon savoir et en apprendre toujours plus😅"
+    "J'adore participer à des projets"
   ),
 
   talks: [
     {
-      title: "Twillio Segments",
+      title: "[WEBINAIRE]Twillio Segments",
       subtitle: "Future-Proofing your Marketing Strategy 2023",
       slides_url: "",
       event_url: "https://segment.com/"
     },
     {
-      title: "test Segments",
-      subtitle: "Future-Proofing your Marketing Strategy 2023",
+      title: "[ACCES PRIVÉ] Intelligence Artificielle",
+      subtitle: "Accès privé à la nouvelle Ia de OpenAI (CODEX)",
       slides_url: "",
-      event_url: "https://segment.com/"
+      event_url: "https://openai.com/blog/openai-codex/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -321,18 +321,18 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Me Contacter 📞"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Envie de discuter d'un projet ou juste de venir dire bonjour ? Mes mails sont ouverts à tous.",
+  number: "",
+  email_address: "marouanez3r@gmail.com@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
   userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = false; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
