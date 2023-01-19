@@ -81,8 +81,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-linux"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "kali",
+      fontAwesomeClassname: "fab fa-kali"
     },
     {
       skillName: "nodejs",
