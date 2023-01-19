@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Marouane Abbar",
+  username: "Manouzr",
   title: "Boujour c'est Marouane",
   subTitle: emoji(
     "Un développeur Web/Python amateur🚀 ayant une expérience dans la construction de site Web et Scripts avec Html / Css / Nodejs / Python et des librairies pour du scraping web."
