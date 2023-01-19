@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "kali",
-      fontAwesomeClassname: "fa-user-secret"
+      fontAwesomeClassname: "fab fa-user-secret"
     },
     {
       skillName: "nodejs",
