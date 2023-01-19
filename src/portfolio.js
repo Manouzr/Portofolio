@@ -255,7 +255,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -279,23 +279,29 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
 
 const talkSection = {
-  title: "TALKS",
+  title: "Rassemblement/Webinars",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "J'adore partager mon savoir et en apprendre toujours plus😅"
   ),
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "Twillio Segments",
+      subtitle: "Future-Proofing your Marketing Strategy 2023",
+      slides_url: "",
+      event_url: "https://segment.com/"
+    },
+    {
+      title: "test Segments",
+      subtitle: "Future-Proofing your Marketing Strategy 2023",
+      slides_url: "",
+      event_url: "https://segment.com/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -304,8 +310,8 @@ const talkSection = {
 // Podcast Section
 
 const podcastSection = {
-  title: emoji("Podcast 🎙️"),
-  subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
+  title: emoji("Musiques 🎙️"),
+  subtitle: "J'aime faire de la musique à mes heures creuses !",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
