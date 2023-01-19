@@ -35,6 +35,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Manouzr",
   linkedin: "",
+  instagram: "https://instagram.com/manou_z3r",
   gmail: "marouanez3r@gmail.com",
   gitlab: "",
   facebook: "",
@@ -54,7 +55,7 @@ const skillsSection = {
     emoji(
       "⚡Je développe des scripts avec GUI"
     ),
-    emoji("⚡Des sites internet Front end / back end"),
+    emoji("⚡Des sites internet Front end / Back end"),
     emoji(
       "⚡ Modules nécessaire pour du scraping Python"
     )
