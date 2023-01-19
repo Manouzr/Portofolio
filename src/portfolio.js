@@ -73,12 +73,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
+      skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Scraping",
+      fontAwesomeClassname: "fa-solid fa-browsers"
     },
     {
       skillName: "reactjs",
