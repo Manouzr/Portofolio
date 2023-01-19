@@ -57,7 +57,7 @@ const skillsSection = {
     ),
     emoji("⚡Des sites internet Front end / Back end"),
     emoji(
-      "⚡ Modules nécessaire pour du scraping Python"
+      "⚡ Modules nécessaires pour du scraping Python"
     )
   ],
 
@@ -179,12 +179,12 @@ const openSource = {
 
 const bigProjects = {
   title: "Projets",
-  subtitle: "Mes projets réalisé jusqu'a maintenant",
+  subtitle: "Mes projets réalisés jusqu'à maintenant",
   projects: [
     {
       image: require("./assets/images/Discord_Logo_sans_texte.svg.png"),
       projectName: "Datasearch",
-      projectDesc: "Un bot Discord lié à Antipublic permettant de genérer des clés de license fonctionnelles et d'effectuer des recherche dans la base de donnée Antipublic",
+      projectDesc: "Un bot Discord lié à Antipublic permettant de générer des clés de licence fonctionnelles et d'effectué des recherches dans la base de donnée Antipublic",
       footerLink: [
         {
           name: "Me contacter pour test",
@@ -312,7 +312,7 @@ const talkSection = {
 
 const podcastSection = {
   title: emoji("Musiques 🎙️"),
-  subtitle: "J'aime faire de la musique à mes heures creuses !",
+  subtitle: "J'aime faire de la musique pendant mes heures creuses !",
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
@@ -324,9 +324,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Me Contacter 📞"),
   subtitle:
-    "Envie de discuter d'un projet ou juste de venir dire bonjour ? Mes mails sont ouverts à tous.",
+    "Envie de discuter d'un projet, ou venir faire connaissance ? Je suis ouvert à la discussion.",
   number: "",
-  email_address: "marouanez3r@gmail.com@gmail.com"
+  email_address: "marouanez3r@gmail.com"
 };
 
 // Twitter Section
